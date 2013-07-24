@@ -3,7 +3,7 @@
   <Role name="Worker">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=idealinknwm;AccountKey=kgJ+6Q160niu4OtAC9+yv2zfRjqpb73LHNAnH0n+k0UwSOGYcbcWzyacWfXAcFnPgwUVdolOeTjTEi/UOwC+nw==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
